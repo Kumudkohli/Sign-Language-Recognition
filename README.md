@@ -1,4 +1,5 @@
-# SignSense: ## A Neural Network Approach to Sign Language Recognition 
+# SignSense: 
+## A Neural Network Approach to Sign Language Recognition 
 
 ## Project Overview
 This project uses Convolutional Neural Networks (CNN) and OpenCV to create a real-time sign language recognition system. It's designed to bridge the communication gap for the deaf and hard-of-hearing community by translating sign language gestures into text or speech. Our goal is to enhance accessibility and interaction within digital spaces.
