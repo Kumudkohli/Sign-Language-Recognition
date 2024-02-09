@@ -24,24 +24,24 @@ Clone the Repository:
 git clone https://github.com/Kumudkohli/Sign-Language-Recognition
 cd sign-recognition-cnn-opencv
 ```
-### Dataset
+## Dataset
 https://www.kaggle.com/datamunge/sign-language-mnist
 
-### Usage
+## Usage
 To launch the sign recognition application, execute:
 ```bash
 python ROIinOpenCV.py
 ```
 Ensure your gestures are within the webcam's field of view. The system will recognize and display the corresponding sign interpretations in real-time.
 
-### Model Training 
+## Model Training 
 The CNN model is trained on a comprehensive sign language dataset. For custom training:
 
 1. Arrange your dataset in the specified format.
 2. Modify the model parameters in train_model.py as needed.
 3. Execute python train_model.py to commence training.
 
-###Contributing
+##Contributing
 We welcome contributions to improve the project. Here's how you can contribute:
 
 1. Fork the repository.
