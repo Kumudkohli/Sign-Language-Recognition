@@ -22,7 +22,7 @@ pip install tensorflow keras opencv-python numpy
 Clone the Repository:
 ```bash
 git clone https://github.com/Kumudkohli/Sign-Language-Recognition
-cd sign-recognition-cnn-opencv
+cd Sign-Language-Recognition
 ```
 ## Dataset
 https://www.kaggle.com/datamunge/sign-language-mnist
@@ -41,7 +41,7 @@ The CNN model is trained on a comprehensive sign language dataset. For custom tr
 2. Modify the model parameters in train_model.py as needed.
 3. Execute python train_model.py to commence training.
 
-##Contributing
+## Contributing
 We welcome contributions to improve the project. Here's how you can contribute:
 
 1. Fork the repository.
