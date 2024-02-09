@@ -21,8 +21,8 @@ pip install tensorflow keras opencv-python numpy
 ```
 Clone the Repository:
 ```bash
-git clone https://github.com/Kumudkohli/Sign-Language-Recognition
-cd Sign-Language-Recognition
+git clone https://github.com/Kumudkohli/SignSense
+cd SignSense
 ```
 ## Dataset
 https://www.kaggle.com/datamunge/sign-language-mnist
