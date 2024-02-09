@@ -30,7 +30,7 @@ https://www.kaggle.com/datamunge/sign-language-mnist
 ### Usage
 To launch the sign recognition application, execute:
 ```bash
-python main.py
+python ROIinOpenCV.py
 ```
 Ensure your gestures are within the webcam's field of view. The system will recognize and display the corresponding sign interpretations in real-time.
 
