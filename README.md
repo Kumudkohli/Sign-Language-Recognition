@@ -21,7 +21,7 @@ pip install tensorflow keras opencv-python numpy
 ```
 Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/sign-recognition-cnn-opencv.git
+git clone https://github.com/Kumudkohli/Sign-Language-Recognition
 cd sign-recognition-cnn-opencv
 ```
 ### Dataset
